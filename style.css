@@ -1,4 +1,68 @@
 * {
     margin: 0%;
-    background-color: green;
+    background-image: url(background.jpg);
+    color: red;
+}
+
+.logo {
+    margin-left: 25px;
+    margin-top: 10px;
+
+
+}
+
+.logo img {
+    border-color: 2px solid red green;
+    border-radius: 100%;
+
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: 3%;
+    font-size: 50px;
+}
+
+.introflag {
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+
+}
+
+.introflag h2 {
+    margin-bottom: 3%;
+    font-size: 35px;
+
+}
+
+.flag img {
+    width: 500px;
+    margin-left: 3%;
+
+}
+
+.intro {
+    width: 50%;
+}
+
+p {
+    text-align: justify;
+}
+
+button {
+    padding: 10px 25px;
+    border-color: red;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button a {
+    text-decoration: none;
+}
+
+button a:hover {
+    color: white;
 }
