@@ -66,3 +66,78 @@ button a {
 button a:hover {
     color: white;
 }
+
+.ald {
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.divission {
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    padding: 50px;
+}
+
+.dhaka {
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px red;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.second-section {
+    padding: 10px;
+    text-align: center;
+}
+
+.all-divisions {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.div-btn {
+    padding: 10px 30px;
+    font: 16px;
+    border-color: red;
+    border-radius: 5px;
+    margin-top: 5%;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.div-btn:hover {
+    color: white;
+}
+
+.description {
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.divi1 {
+    margin-top: 5%;
+}
+
+.divi2 {
+    margin-top: 5%;
+
+}
+
+.divi3 {
+    margin-top: 5%;
+}
+
+.divi4 {
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+footer h3 {
+    text-align: center;
+
+}
